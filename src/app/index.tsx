@@ -26,7 +26,7 @@ Notifications.setNotificationHandler({
     }),
 });
 
-const API_BASE = 'https://yaladev-api.onrender.com/metas/hoy';
+const API_BASE = 'https://yaladev-api.onrender.com/api';
 
 // ─── Colores ─────────────────────────────────────────────────────────────────
 const C = {
